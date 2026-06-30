@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/surfi89/get_next_line?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/surfi89/get_next_line?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/surfi89/get_next_line?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/surfi89/get_next_line?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/surfi89/get_next_line?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/ajordn/get_next_line?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/ajordn/get_next_line?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/ajordn/get_next_line?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ajordn/get_next_line?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ajordn/get_next_line?color=green" />
 </p>
 
 <h3 align="center">
@@ -34,7 +34,7 @@
 	on manipulating files for data management and persistence.
 	This project consists of coding a function that returns one line at a time from a text file.
 
-For more detailed information, look at the [**subject of this project**](https://github.com/Surfi89/42cursus/tree/main/Subject%20PDFs).
+For more detailed information, look at the [**subject of this project**](https://github.com/ajordn/42cursus/tree/main/Subject%20PDFs).
 
 
 ## 🛠️ Usage
@@ -62,7 +62,7 @@ get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
 ## 📋 Testing
 
 You only have to edit the get_next_line.c file and uncomment the main function and headers inside it.
-You can edit test.txt files to put another text if you wish to test othe cases.
+You can edit test.txt files to put another text if you wish to test other cases.
 Then simply run this command (change "xx" with desired buffer size) :
 
 ```shell
